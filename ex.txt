@@ -1,0 +1,5 @@
+/files
+/cgi-bin
+/cache
+/apps
+
